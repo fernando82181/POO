@@ -1,0 +1,14 @@
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\bin\Debug\net10.0\Universidad.exe
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\bin\Debug\net10.0\Universidad.deps.json
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\bin\Debug\net10.0\Universidad.runtimeconfig.json
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\bin\Debug\net10.0\Universidad.dll
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\bin\Debug\net10.0\Universidad.pdb
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.AssemblyInfo.cs
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.dll
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\refint\Universidad.dll
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.pdb
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.genruntimeconfig.cache
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\ref\Universidad.dll
