@@ -15,10 +15,14 @@ class Program
                     "3001234567"
         );
 
-        Console.WriteLine("Estudiante: " + fernando.getNombre());
-        fernando.setNombre("Juan");
-        Console.WriteLine("Estudiante: " + fernando.getNombre());
+        //Console.WriteLine("Estudiante: " + fernando.getNombre());
+        //fernando.setNombre("Juan");
+        //Console.WriteLine("Estudiante: " + fernando.getNombre());
+        //fernando.imprimirNombreCompleto();
 
+        //Console.WriteLine( "Promedio calculado = " + fernando.getPromedio() ); 
+        
+        fernando.toString();
 
     }
 

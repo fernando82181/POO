@@ -18,6 +18,7 @@ public class Persona
     {
         return this.apellido;
     }
+    
 
     public void setApellido(string apellido)
     {
@@ -65,6 +66,10 @@ public class Persona
         this.nombre = nombreRecibido;
     }
 
-
+    public void imprimirNombreCompleto()
+    {
+        Console.WriteLine ( $"{this.nombre} {this.apellido}" );
+       // Console.WriteLine ( this.nombre + " " + this.apellido )
+    }
 
 }

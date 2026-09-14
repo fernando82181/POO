@@ -12,3 +12,4 @@ C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de prog
 C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.pdb
 C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.genruntimeconfig.cache
 C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\ref\Universidad.dll
+C:\Users\carta\OneDrive\Documents\UNIVERSIDADES - CLASES\UNAULA\Lenguaje de programacion I\Practicas\Universidad\obj\Debug\net10.0\Universidad.sourcelink.json

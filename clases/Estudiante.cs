@@ -50,4 +50,14 @@ public class Estudiante : Persona
         this.promedio = promedio;
 
     }
+    
+    public void toString()
+    {
+        
+        Console.WriteLine( "Nombre: " + this.getNombre() + "Apellido: "  + this.getApellido() + " documento: " + this.getDocumento() + " correo: " + this.getCorreo() + " telefono: " + this.getTelefono()); 
+        Console.WriteLine( "Promedio = "  + this.promedio + " Programa: " + this.programa + " semestre: " + this.semestre);
+
+    }
+
+
 }
