@@ -16,6 +16,29 @@ public class CalculoSalario
 
     }
 
+    public double calculoSalarioAdministrativo ( short jornada )
+    {
+        
+        double salario = 0;
+        double valorHoras = 51500;
+        int cantidadHoras = 0;
+
+        switch (jornada)
+        {
+            case 1:
+                cantidadHoras = 20; //Jornada = 1 (Medio tiempo)
+            break; 
+
+            case 2:
+                cantidadHoras = 40; //Jornada = 2 (Tiempo completo)
+            break;
+        }
+        
+        salario = cantidadHoras * valorHoras;
+
+        return salario; 
+    }
+
 
 }
 

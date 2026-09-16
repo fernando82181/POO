@@ -40,6 +40,15 @@ class Program
         docente.setSueldo( salario );
         Console.WriteLine( "Salario del docente = " + docente.getSueldo() );
 
+        Administrativo administrativo = new 
+        Administrativo( "Secretaria", "Decanatura", calculoSalario.calculoSalarioAdministrativo(2) );
+        Console.WriteLine("Salario Secretaria = " + administrativo.getSalario());
+
+
+
+
+
+
     }
 
 }
