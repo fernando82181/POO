@@ -24,6 +24,22 @@ class Program
         
         fernando.toString();
 
+        Docente docente = new Docente ( 
+            "Ingenieria en software",
+            "Prestación de servicios",
+            0,
+            "Fernando José",
+            "Carta",
+            "12345678",
+            "cartafernando@corre.com",
+            "12341234" );
+
+        CalculoSalario calculoSalario = new CalculoSalario();
+        double salario = calculoSalario.calculoSalarioDocente( 12 );
+
+        docente.setSueldo( salario );
+        Console.WriteLine( "Salario del docente = " + docente.getSueldo() );
+
     }
 
 }

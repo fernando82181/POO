@@ -1,11 +1,20 @@
-public class Docente
+public class Docente : Persona 
 {
     private string especialidad;
     private string tipoContrato;
     private double sueldo;
 
-    public Docente( string especialidad, string tipoContrato, double sueldo )
+    public Docente( string especialidad, 
+                    string tipoContrato, 
+                    double sueldo, 
+                    string nombreRecibido,
+                    string apellidoRecibido,
+                    string documentoRecibido,
+                    string correoRecibido,
+                    string telefonoRecibido ) 
+                    : base(nombreRecibido, apellidoRecibido, documentoRecibido, correoRecibido, telefonoRecibido)
     {
+    
         this.especialidad = especialidad;
         this.tipoContrato = tipoContrato;
         this.sueldo = sueldo;
